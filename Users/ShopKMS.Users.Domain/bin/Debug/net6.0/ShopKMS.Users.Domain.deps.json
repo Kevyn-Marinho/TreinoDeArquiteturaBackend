@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShopKMS.Users.Domain/1.0.0": {
+        "runtime": {
+          "ShopKMS.Users.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopKMS.Users.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

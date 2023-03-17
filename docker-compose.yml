@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  web:
+    build: "../ShopKMS.Users/"
+    ports:
+      - "8000:5000"
+    depends_on:
+      - SqlServer
+  SqlServer:
+    image: "mcr.microsoft.com/mssql/server:"

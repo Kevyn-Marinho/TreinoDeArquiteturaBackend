@@ -1,0 +1,15 @@
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\bin\Debug\net6.0\ShopKMS.Users.Services.deps.json
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\bin\Debug\net6.0\ShopKMS.Users.Services.dll
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\bin\Debug\net6.0\ShopKMS.Users.Services.pdb
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\obj\Debug\net6.0\ShopKMS.Users.Services.csproj.AssemblyReference.cache
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\obj\Debug\net6.0\ShopKMS.Users.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\obj\Debug\net6.0\ShopKMS.Users.Services.AssemblyInfoInputs.cache
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\obj\Debug\net6.0\ShopKMS.Users.Services.AssemblyInfo.cs
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\obj\Debug\net6.0\ShopKMS.Users.Services.csproj.CoreCompileInputs.cache
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\obj\Debug\net6.0\ShopKMS.Users.Services.dll
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\obj\Debug\net6.0\refint\ShopKMS.Users.Services.dll
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\obj\Debug\net6.0\ShopKMS.Users.Services.pdb
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\obj\Debug\net6.0\ref\ShopKMS.Users.Services.dll
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\bin\Debug\net6.0\ShopKMS.Users.Domain.dll
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\bin\Debug\net6.0\ShopKMS.Users.Domain.pdb
+C:\Users\cin_ksaraiva\source\repos\ShopKMS\ShopKMS.Users.Services\obj\Debug\net6.0\ShopKMS.Users.Services.csproj.CopyComplete

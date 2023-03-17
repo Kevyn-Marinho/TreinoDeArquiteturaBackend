@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XMBI12glyBjYyDhtCZf6SD3GAvoTnFRkLp/PtoSyx20=",
+  "Source": "ShopKMS.Users.Api",
+  "BasePath": "_content/ShopKMS.Users.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
